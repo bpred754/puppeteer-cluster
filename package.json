@@ -28,7 +28,7 @@
     "debug": "^4.3.3"
   },
   "peerDependencies": {
-    "puppeteer": ">=22.6.4"
+    "puppeteer": ">=22.5.0"
   },
   "devDependencies": {
     "@types/debug": "^4.1.7",
